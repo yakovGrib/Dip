@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+	<question number="1" question1="... - задает величину свободного пространства между абзацами?" answer1="Перед" answer2="Интервал между абзацами" answer3="После" answer4="Точно" true="Интервал между абзацами" type="WithRB"></question>
+	<question number="2" question1="... - задает величину свободного пространства перед абзацем" answer1="Перед" answer2="Интервал между абзацами" answer3="Точно" answer4="После" true="Перед" type="WithRB"></question>
+	<question number="3" question1="... - задает величину свободного пространства после абзаца" answer1="Перед" answer2="Точно" answer3="После" answer4="Интервал между абзацами" true="После" type="WithRB"></question>
+	<question number="4" question1="На вкладке ... можно изменить смещение первой строи?" answer1="Отступы" answer2="Отступы и положение" answer3="Табуляция" answer4="Позиция" true="Отступы и положение" type="WithRB"></question>
+	<question number="5" question1="Выравнивание по ..., центрирует текст относительно позиции табуляции?" answer1="Левому краю" answer2="Правому краю" answer3="Табуляция" answer4="Центру" true="Центру" type="WithRB"></question>
+	<question number="6" question1="Вкладка шрифт содержит:?" answer1="Зачеркивание" answer2="Надстрочные" answer3="Подчеркивание" answer4="Подстрочные" true="ЗачеркиваниеНадстрочныеПодстрочные" type="WithCHB"></question>
+	<question number="7" question1="Выравнивние объектов может быть по:?" answer1="Центру" answer2="Левому краю" answer3="Правому краю" answer4="Ширине" true="ЦентруЛевому краюПравому краю"  type="WithCHB"></question>
+	<question number="8" question1="Упорядочивание объектов позволяет перенести объект:" answer1="На передний план" answer2="Вперед" answer3="На задний план" answer4="Назад" true="На передний планВпередНа задний планНазад" type="WithCHB"></question>
+	<question number="9" question1="Группировка на вкладке макет позволяет:?" answer1="Сгруппировать" answer2="Сложить" answer3="Разгруппировать" answer4="Разделить" true="СгруппироватьРазгруппировать" type="WithCHB"></question>
+	<question number="10" question1="Какие опции содержит междустрочный интервал:?" answer1="Минимум" answer2="Множитель" answer3="Точно" answer4="Перед" true="МинимумМножительТочно" type="WithCHB"></question>
+	<question number="11"  question1="... - используется, чтобы задать пользовательские позиции табуляции(с заглавной буквы)" true="Позиция" type="WithTB"></question>
+	<question number="12"  question1="... - используется, чтобы задать нужный тип выравнивания (с заглавной буквы)" true="Выравнивание" type="WithTB"></question>
+	<question number="13"  question1="Текстовое поле с предварительно заданным стилем и цветом шрифта(с заглавной буквы)" true="Text Art" type="WithTB"></question>
+	<question number="14" question1="Для поворота фигуры в 15 градусов какую клавишу необходимо нажать?(с заглавной буквы)" true="Shift" type="WithTB"></question>
+	<question number="15" question1="Для перемещения объекта строго по горизонтли/вертикали какую клавишу необходимо нажать?(с заглавной буквы)" true="Shift" type="WithTB"></question>
+</questions>

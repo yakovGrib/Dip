@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+	<question number="1" question1="Цвет темы это?" answer1="Набот стандартных цветов" answer2="Цвета,соответстующие выбранной цветовой схеме" answer3="Настраиваемые пользовательские цвета" answer4="Не знаю" true="Цвета,соответстующие выбранной цветовой схеме" type="WithRB"></question>
+	<question number="2" question1="" answer1="Вставить все содержимое ячейки, включая форматирование данных" answer2="Вставить часть содержимого " answer3="Вырезать данные с новым значением" answer4="Вставить без форматирования данных" true="Вставить все содержимое ячейки, включая форматирование данных" type="WithRB"></question>
+	<question number="3" question1="Горячие клавиши для добавления гиперссылки?" answer1="CTRL+K" answer2="CTRL+F" answer3="CTRL+C" answer4="CTRL+B" true="CTRL+K" type="WithRB"></question>
+	<question number="4" question1="Какую клавишу необходимо нажать для перехода по ссылке?" answer1="ALT" answer2="CTRL" answer3="SHIFT" answer4="TAB" true="CTRL" type="WithRB"></question>
+	<question number="5" question1="Горячие клавиши для выделения всего рабочего листа?" answer1="CTRL+J" answer2="CTRL+C" answer3="CTRL+A" answer4="CTRL+Z" true="CTRL+A" type="WithRB"></question>
+	<question number="6" question1="Что отображается в шапке редактора:" answer1="Логотип" answer2="Вкладки открытых документов" answer3="Название электронной таблицы" answer4="Вкладки меню" true="ЛоготипВкладки открытых документовНазвание электронной таблицыВкладки меню"  type="WithCHB"></question>
+	<question number="7" question1="Что позволяет вкладка - Вставка:" answer1="Вставлять изображения" answer2="Вставлять комментарии и гиперссылки" answer3="Вставлять формулы" answer4="Вставлять график" true="Вставлять изображенияВставлять комментарии и гиперссылкиВставлять формулы"  type="WithCHB"></question>
+	<question number="8" question1="Что позволяет вкладка - Макет:" answer1="Настраивать поля" answer2="Вставлять функцию" answer3="Вставлять комментарии" answer4="Выравнивать объекты" true="Настраивать поляВыравнивать объекты" type="WithCHB"></question>
+	<question number="9" question1="Что позволяет вкладка - Совместная работа:" answer1="Упралять комментариями" answer2="Группировать данные" answer3="Выбирать режим совместного редактирования" answer4="Предоставлять доступ к файлу" true="Упралять комментариямиВыбирать режим совместного редактированияПредоставлять доступ к файлу" type="WithCHB"></question>
+	<question number="10" question1="Что позволяет вкладка - Данные:" answer1="Выполнять сортировку и фильтрацию данных" answer2="Преобразование текста в столбцы и группировка данных" answer3="Удаление неверных значений" answer4="Вставка дополнительных значений" true="Выполнять сортировку и фильтрацию данныхПреобразование текста в столбцы и группировка данных" type="WithCHB"></question>
+	<question number="11"  question1="Для быстрого заполнения множества ячеек одними и теми же данными можно использовать:" true="Автозаполнение" type="WithTB"></question>
+	<question number="12"  question1="Какая вкладка позволяет выполныть базовые операции с текущим документом?" true="Файл" type="WithTB"></question>
+	<question number="13"  question1="Какая вкладка позволяет получить доступ к доп. возможностям редактирования?" true="Плагины" type="WithTB"></question>
+	<question number="14" question1="Сочетание клавиш ... позволяет выделить весь рабочий лист (слитно, заглавными буквами, через '+')?" true="CTRL+A" type="WithTB"></question>
+	<question number="15" question1="Сочетание клавиш ... позволяет вырезать выделенную часть документа (слитно, заглавными буквами, через '+')?" true="CTRL+X" type="WithTB"></question>
+</questions>

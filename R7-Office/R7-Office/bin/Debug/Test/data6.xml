@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+	<question number="1" question1="Что используется для выбора типа отображения шрифта?" answer1="Автовосстановление" answer2="Хитинг шрифтов" answer3="Комментарии" answer4="Шрифт" true="Хитинг шрифтов" type="WithRB"></question>
+	<question number="2" question1="Что используется для выбора языка отображения и ввода имен формул?" answer1="Совместня работа" answer2="Чат формул" answer3="Язык формул" answer4="Облако формул" true="Язык формул" type="WithRB"></question>
+	<question number="3" question1="Что используется для выбора формата отображения денежных единиц и даты и времени?" answer1="Региональные параметры" answer2="Язык формул" answer3="Файл" answer4="Хинтинг" true="Региональные параметры" type="WithRB"></question>
+	<question number="4" question1="... - скрывает линии вокруг ячеек?" answer1="Вид" answer2="Скрыть заголовки" answer3="Скрыть сетку" answer4="Скрыть линии сетки" true="Скрыть линии сетки" type="WithRB"></question>
+	<question number="5" question1="Что Используется для прокручивания текущего листа вверх/вниз и влево/вправо?" answer1="Ползунок" answer2="Курсор" answer3="Полосы прокрутки" answer4="Стрелки" true="Полосы прокрутки" type="WithRB"></question>	
+	<question number="6" question1="Какие горячие клавиши используется для выделения всего рабочего листа:?" answer1="CTRL+A" answer2="CTRL+S" answer3="CTRL+SHIFT+Пробел" answer4="CTRL+U" true="CTRL+ACTRL+SHIFT+Пробел" type="WithCHB"></question>
+	<question number="7" question1="Какие горячие клавиши позволяют вырезать выделенные данные?" answer1="CTRL+X" answer2="SHIFT+DELETE" answer3="CTRL+S" answer4="CTRL+A" true="CTRL+XSHIFT+DELETE"  type="WithCHB"></question>
+	<question number="8" question1="Какие горячии клавиши позволяют вставить ранее копированные/вырезанные данные" answer1="CTRL+V" answer2="SHIFT+ALT" answer3="CTRL+X" answer4="SHIFT+INSERT" true="CTRL+VSHIFT+INSERT" type="WithCHB"></question>
+	<question number="9" question1="Какие опции представлены в параметрах представления?" answer1="Скрыть строку формул" answer2="Очистить" answer3="Скрыть заголовки" answer4="Закрепить области" true="Скрыть строку формулСкрыть заголовкиЗакрепить области" type="WithCHB"></question>
+	<question number="10" question1="Какие горячие клавиши позволяют выделить предыдущую ячейку текущей строки:" answer1="ENTER" answer2="Стрелка влево" answer3="SHIFT+TAB" answer4="Стрелка вправо" true="Стрелка влевоSHIFT+TAB" type="WithCHB"></question>
+	<question number="11"  question1="Горячие клавиши для открия диалогового окна - Числовой формат?(большими буквами, через +)" true="CTRL+1" type="WithTB"></question>
+	<question number="12"  question1="Горячие клавиши для быстрого сохранения таблицы?(большими буквами, через +)" true="CTRL+S" type="WithTB"></question>
+	<question number="13"  question1="Горячие клавиши для печати доккумента?(большими буквами, через +)" true="CTRL+P" type="WithTB"></question>
+	<question number="14" question1="Горячие клавиши для завершения ввода в выделенную ячейку или строку формул и перейти в ячейку ниже?(большими буквами)" true="ENTER" type="WithTB"></question>
+	<question number="15" question1="Горячие клавиши для удаления одного символ справа от курсора в строке формул или выделенной ячейке?(большими буквами)" true="DELETE" type="WithTB"></question>
+</questions>

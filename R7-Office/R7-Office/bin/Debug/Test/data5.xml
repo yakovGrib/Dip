@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+	<question number="1" question1="Для подключения к облачной версии какой пункт необходимо открыть?" answer1="Совместная работа" answer2="Совместное редактирование" answer3="Облако" answer4="Файл" true="Совместная работа" type="WithRB"></question>
+	<question number="2" question1="Этот инструмент можно использовать для оперативного согласования процесса совместного редактирования" answer1="Совместня работа" answer2="Чат" answer3="Совместное редактирование" answer4="Облако" true="Чат" type="WithRB"></question>
+	<question number="3" question1="Чтобы получить доступ к подробным сведениям о редактируемой электронной таблице, нажмите на вкладку:" answer1="Файл->Таблица" answer2="Файл->Сведения" answer3="Файл" answer4="Файл->Сведения о таблице" true="Файл->Сведения о таблице" type="WithRB"></question>
+	<question number="4" question1="Горячие клавиши для быстрого сохранения таблицы?" answer1="CTRL+A" answer2="CTRL+S" answer3="CTRL+Z" answer4="CTRL+K" true="CTRL+S" type="WithRB"></question>
+	<question number="5" question1="Горячие клавиши для печати документа?" answer1="CTRL+K" answer2="CTRL+A" answer3="CTRL+P" answer4="CTRL+L" true="CTRL+P" type="WithRB"></question>
+	<question number="6" question1="Какие существую режимы совместной работы:?" answer1="Быстрый" answer2="Защищенный" answer3="Строгий" answer4="Открытый" true="БыстрыйСтрогий" type="WithCHB"></question>
+	<question number="7" question1="Добавленные комментарии можно:?" answer1="Редактировать" answer2="Удалять" answer3="Закрыть обсуждение" answer4="Выйти" true="РедактироватьУдалятьЗакрыть обсуждение"  type="WithCHB"></question>
+	<question number="8" question1="Настройки масштаба позволяют выбрать:" answer1="Ширину" answer2="Высоту" answer3="Установить" answer4="Загрузить" true="ШиринуВысотуУстановить" type="WithCHB"></question>
+	<question number="9" question1="Параметры печати позволяют выбрать?" answer1="Диапазон" answer2="Поля" answer3="Размер" answer4="Стиль" true="ДиапазонПоляРазмер" type="WithCHB"></question>
+	<question number="10" question1="После подключения к облачной версии предоставляет:" answer1="Одновременный многопользоватльский доступ" answer2="Визуальную индикцию ячеек" answer3="Мгновенное отображение изменений" answer4="Чат и комментарии" true="Одновременный многопользоватльский доступВизуальную индикцию ячеекМгновенное отображение измененийЧат и комментарии" type="WithCHB"></question>
+	<question number="11"  question1="Этот инструмент можно использовать для оперативного согласования процесса совместного редактирования(с заглавной буквы)" true="Чат" type="WithTB"></question>
+	<question number="12"  question1="Горячие клавиши для быстрого сохранения таблицы?(с заглавной буквы, через +)" true="CTRL+S" type="WithTB"></question>
+	<question number="13"  question1="Горячие клавиши для печати доккумента?(с заглавной буквы, через +)" true="CTRL+P" type="WithTB"></question>
+	<question number="14" question1="Эта функция помогает сжать электронную таблицу(с заглавной буквы)" true="Вписать" type="WithTB"></question>
+	<question number="15" question1="... - режим позволяет скрывать изменения, внесенные другими пользователями?(с заглавной буквы)" true="Строгий" type="WithTB"></question>
+</questions>

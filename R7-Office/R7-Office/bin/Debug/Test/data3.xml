@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+	<question number="1" question1="Определенное имя - ...?" answer1="Произвольное имя" answer2="Стандартное имя" answer3="Новое имя" answer4="Присвоить имя" true="Произвольное имя" type="WithRB"></question>
+	<question number="2" question1="Имя таблицы - ...?" answer1="Произвольное имя" answer2="Новое имя" answer3="Именнованные диапазоны" answer4="Стандартное имя" true="Стандартное имя" type="WithRB"></question>
+	<question number="3" question1="Получить доступ ко всем именам можно через...?" answer1="Именнованные диапзоны" answer2="Диспетчер имен" answer3="Диспетчер" answer4="Определенные имена" true="Диспетчер имен" type="WithRB"></question>
+	<question number="4" question1="... - используется для определения поряда числовых значений на оси?" answer1="Максимум" answer2="Пересечение с осью" answer3="Единицы отображения" answer4="Параметры делений" true="Единицы отображения" type="WithRB"></question>
+	<question number="5" question1="... - используется для указания точки на горизонтльной оси, где она пересекается?" answer1="Положение оси" answer2="Пересечение с осью" answer3="Параметры делений" answer4="Значение" true="Пересечение с осью" type="WithRB"></question>
+	<question number="6" question1="Раздел параметры оси позволяет установить:?" answer1="Пересечение с осью" answer2="Положение оси" answer3="Значения в обратном порядке" answer4="Точечные диаграммы" true="Пересечение с осьюПоложение осиЗначения в обратном порядке"  type="WithCHB"></question>
+	<question number="7" question1="Параметры фигуры позволяет задать свойства:?" answer1="Заливка" answer2="Заливка цветом" answer3="Цвета темы" answer4="Стандартные цвета" true="ЗаливкаЗаливка цветом"  type="WithCHB"></question>
+	<question number="8" question1="Раздел параметры оси позволяет установить:?" answer1="Минимум" answer2="Максимум" answer3="Единицы отображения" answer4="Положение оси" true="МинимумМаксимумЕдиницы отображенияПоложение оси" type="WithCHB"></question>
+	<question number="9" question1="Раздел параметры подписи позволяет установить:?" answer1="Расстояние до подписи" answer2="Интервал между подписями" answer3="Альтернативный текст" answer4="Интервал между делениями" true="Расстояние до подписиИнтервал между подписями" type="WithCHB"></question>
+	<question number="10" question1="Вкладка Альтернативный текст позволяет задать:?" answer1="Стиль" answer2="Шрифт" answer3="Заголовок" answer4="Описание" true="ЗаголовокОписание" type="WithCHB"></question>
+	<question number="11"  question1="Вкладка ... позволяет задать Заголовок и Описание (с заглавной буквы)" true="Альтернативный текст" type="WithTB"></question>
+	<question number="12"  question1="Вкладка ... содержит стиль линии (с заглавной буквы)" true="Линии и стрелки" type="WithTB"></question>
+	<question number="13"  question1="Раздел ... позволяет определить местоположение делений на вертикальной оси (с заглавной буквы)" true="Параметры делений" type="WithTB"></question>
+	<question number="14" question1="Произвольное имя, которое можно задать для некоторого диапазона (с заглавной буквы)" true="Определенное имя" type="WithTB"></question>
+	<question number="15" question1="Стандартное имя, которое автоматически присвивается новой таблице(с заглавной буквы)" true="Имя таблицы" type="WithTB"></question>
+</questions>
